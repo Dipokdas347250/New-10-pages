@@ -1,0 +1,51 @@
+#test{
+    padding-bottom: 105px;
+}
+.test_text a{
+    font-family: "Manrope", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #3734A9;
+}
+.test_text h2{
+    font-family: "Manrope", sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #000;
+    margin-top: 10px;
+}
+.test_img img{
+    width: 100%;
+    margin-top: 20px;
+}
+.test_item h3{
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #000;
+    
+}
+.test_item p{
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000;
+}
+.test_item h5{
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000;
+}
+.test_item h6{
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 28px;
+    color: #000;
+}

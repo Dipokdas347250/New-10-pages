@@ -1,0 +1,46 @@
+#banner{
+    padding: 120px 0;
+}
+.banner_img img{
+    width: 100%;
+}
+.banner_text h1{
+    font-family: "Manrope", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #000;
+    margin-top: 20px;
+}
+.banner_text p{
+    font-family: "Manrope", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000;
+    margin-top: 20px;
+}
+.banner_text a{
+    font-family: "Manrope", sans-serif;
+    padding: 10px 20px;
+    background-color: #3734A9;
+    color: #fff;
+    border: 2px solid#3734A9;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.banner_text a:hover{
+    background-color: #fff;
+    color: #000;
+}

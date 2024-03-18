@@ -1,0 +1,54 @@
+#content{
+   padding-top: 105px;
+}
+.content_text h3{
+    font-family: "Manrope", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #3734A9;
+    
+}
+.content_text h2{
+    font-family: "Manrope", sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: 48px;
+    color: #000;
+    margin-top: 20px;
+}
+.content_text p{
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #000;
+    margin-top: 20px;
+}
+.content_text a{
+    font-family: "Manrope", sans-serif;
+    padding: 10px 20px;
+    background-color: #3734A9;
+    color: #fff;
+    border: 2px solid#3734A9;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 28px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.content_text a:hover{
+    background-color: #fff;
+    color: #000;
+}
+.content_img img{
+    width: 100%;
+}

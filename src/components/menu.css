@@ -1,0 +1,33 @@
+Nav a{
+    margin: 0 20px !important;
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    
+    
+}
+.login a{
+    color: #fff;
+    padding: 10px 20px;
+    background-color: #3734A9;
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.login a:hover{
+    background-color: #fff;
+    color: #000;
+}
+.icon{
+    margin-right: 10px;
+}

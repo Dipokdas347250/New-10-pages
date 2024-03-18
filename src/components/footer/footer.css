@@ -1,0 +1,48 @@
+#footer{
+    padding: 100px 0;
+    background-color: #1B1C31;
+}
+.footer_text h2{
+    font-family: "Manrope", sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #fff;
+}
+.footer_text p{
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #fff;
+}
+.footer_item h3{
+    font-family: "Manrope", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 60px;
+    color: #fff;
+}
+.footer_item ul li{
+    padding: 10px 0;
+}
+.footer_item ul li a{
+    font-family: "Manrope", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 28px;
+    color: #fff;
+    margin-left: -30px;
+}
+.footer_part{
+    position: relative;
+}
+.footer_part::after{
+    position: absolute;
+    content: '';
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+}
